@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Open+Sans:wght@300;400&display=swap");
+
+:root {
+  background-color: gainsboro;
+  margin: 50px 100px 50px 100px;
+}
+
+img {
+  max-width: 200px;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+
+.head-menu {
+  text-align: center;
+  background-color: black;
+  display: block;
+  color: aliceblue;
+  font-size: 24px;
+  padding-bottom: 100px;
+}
